@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "703270610036",
+    "firebase_url": "https://digital-diary-a9499.firebaseio.com",
+    "project_id": "digital-diary-a9499",
+    "storage_bucket": "digital-diary-a9499.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703270610036:android:57808b7c38dc904d9e1d21",
+        "android_client_info": {
+          "package_name": "co.eazystreet.digitaldiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703270610036-7fdbsrnol522tp14o004oec9fccuijb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.eazystreet.digitaldiary",
+            "certificate_hash": "edfdcd7d82ad5c6a31ddb6591e9299a7ff19fda2"
+          }
+        },
+        {
+          "client_id": "703270610036-qrps9fgjf3hdr9rm6cjcui80cni3ru3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAajKfXq3ApM4hyCIe5Hfv1AeIGDsWckZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703270610036-qrps9fgjf3hdr9rm6cjcui80cni3ru3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
